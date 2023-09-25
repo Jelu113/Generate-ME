@@ -13,7 +13,7 @@ const questions = [
     type: 'list',
     message: 'What license are you using?',
     name: 'license',
-    choices: ['Apache_2.0', 'Boost', 'BSD', 'Not licensed'],
+    choices: ['Apache_2.0', 'Boost', 'BSD', 'None'],
   },
   {
     type: 'input',
@@ -105,7 +105,7 @@ function init() {
 
       const template = generateMarkdown(data)
       console.log('template', template)
-      writeToFile("./utils/README.md", template)
+      writeToFile("README.md", template)
     })
 }
 
