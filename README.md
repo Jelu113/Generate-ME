@@ -13,7 +13,7 @@
 -[Tests](#tests)  
 
  ## Description
- This project is run in node and not deployable. 
+ This project is run in node and not deployable. But here is the Github link https://github.com/Jelu113/Generate-ME.
  To create a README generator so I wouldn't forget any important information that belongs in a README file. 
  I built this project to learn node.js and Markdown.
  I no longer have to worry about forgetting a section in my README file, because I have a generator that will prompt me to fill in the necessary information. 
