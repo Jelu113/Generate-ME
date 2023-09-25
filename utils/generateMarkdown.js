@@ -29,7 +29,7 @@ function renderLicenseSection(license) {
 function generateMarkdown(data) {
   console.log('hello')
   return `# ${data.title} 
- ${renderLicenseBadge(data.license)}
+ ${renderLicenseBadge(data.license)}  
  ${data.deployed}
  ## Table of Contents
 -[Description](#description)  

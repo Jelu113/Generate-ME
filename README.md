@@ -1,6 +1,6 @@
 # Generate-ME 
- 
-
+   
+ Github  https://github.com/Jelu113/Generate-ME  video  https://drive.google.com/file/d/1zEvYsqLve_Jhp1aLSxoXkZNH1MN9WzC4/view 
  ## Table of Contents
 -[Description](#description)  
 -[Installation](#installation)  
@@ -13,21 +13,21 @@
 -[Tests](#tests)  
 
  ## Description
- This project is run in node and not deployable. But here is the Github link https://github.com/Jelu113/Generate-ME.
- To create a README generator so I wouldn't forget any important information that belongs in a README file. 
- I built this project to learn node.js and Markdown.
- I no longer have to worry about forgetting a section in my README file, because I have a generator that will prompt me to fill in the necessary information. 
- I learned node.js and Markdown.
- It is simple and convienent to use.
- My computer decided to reject VS code during this project and I had to redo it several times and reload etc, VS code.
- I would like to add more Markdown functions. To polish the look more. 
+ Github  https://github.com/Jelu113/Generate-ME  video  https://drive.google.com/file/d/1zEvYsqLve_Jhp1aLSxoXkZNH1MN9WzC4/view 
+ I created a README generator to ensure I did not forget any parts of the README file, now or in the future. 
+ I also created it to better learn node.js and Markdown.
+ I no longer have to worry about forgetting a section in my README file, because I have a generator that will prompt me to fill in the necessary information.
+ I was successful in learing node.js and Markdown. 
+ 
+ My computer decided to not work with VSCode for a while during this project, but I was able to figure out how to uninstall, reinstall and get it to work again. 
+ While this is awesome, I don't think it is done yet, I would like to learn more Markdown functions to make it really shine.
 
 ## Installation
-To install, simply clone the code, open it in VS code, have node.js installed and then execute by typing node index.js.
+To install, simply clone the code, open it in VSCode, have node.js installed and then execute by typing node index.js in the terminal.
 ## Usage
 
 ## Credits
-I worked with a tutor on this project, otherwise, it was just me. 
+I worked with a tutor on this and used the starter code provided. 
 ## License
 undefined
 ## Badges
